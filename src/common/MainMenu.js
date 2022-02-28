@@ -32,6 +32,9 @@ export const MainMenu = () => {
       <Grid item>
         <Link to="/example-form">Example Form</Link>
       </Grid>
+      <Grid item>
+        <Link to="/Cart.js">Cart</Link>
+      </Grid>
     </MenuWrapper>
   );
 };
